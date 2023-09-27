@@ -1,0 +1,18 @@
+.avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background-color: rgb(25, 79, 79);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.avatarBorder {
+  border: 2px solid rgba(0, 0, 0, 0.4);
+  width: 57px;
+  height: 57px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
